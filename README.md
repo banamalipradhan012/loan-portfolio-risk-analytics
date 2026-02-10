@@ -1,5 +1,12 @@
 # Loan Portfolio Performance & Risk Analytics
 
+
+<p align="center">
+  <img src="cover photo/bank-loan-illustration-svg-download-png-3322131.webp" alt="Loan Portfolio Performance & Risk Analytics">
+</p>  
+
+
+
 ## Problem Statement
 Financial institutions generate large volumes of loan data but often lack a unified analytics framework to track loan demand, funding efficiency, repayment performance, and default risk. Without clear insights, banks face challenges in identifying high-risk segments, regional concentration, and portfolio health.
 

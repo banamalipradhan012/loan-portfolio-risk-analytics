@@ -148,4 +148,8 @@ This project demonstrates an end-to-end analytics workflow combining SQL, Python
 
 
 
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
 
